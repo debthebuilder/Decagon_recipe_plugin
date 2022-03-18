@@ -1,2 +1,2 @@
 # Decagon_recipe_plugin
-a simple plugin to add, edit, delete and update recipes
+A simple plugin to handle adding, editing, deleting and selecting recipes
